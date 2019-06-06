@@ -13,6 +13,7 @@ const StyledButton = ({text, onClick, type}) => (
       textAlign: "center",
       textDecoration: "none",
       fontSize: "1em",
+      cursor: "pointer"
     }}
   >
     {text}
